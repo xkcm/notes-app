@@ -1,24 +1,6 @@
 # notes-app
+Very simple web application that allows you to create notes and store them in browser's local storage.
+# Serving application
+Simply type ` yarn serve ` in your terminal and it should host on your local machine.
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Built with Vue 4
